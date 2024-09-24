@@ -36,7 +36,7 @@ public class NextgreaterElement {
 
         int[] arr=new int[]{5,15,10,8,6,12,9,18};
 
-        printGreater(arr,arr.length);
+        //printGreater(arr,arr.length);
 
         int[] arr1=new int[]{5,15,10,8,6,12,9,18};
 

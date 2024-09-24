@@ -33,9 +33,9 @@ public class PreviousGreaterElement {
     }
     public static void main (String[] args) {
 
-        int[] arr=new int[]{20,30,10,5,15};
+        int[] arr=new int[]{15,10,18,12,4,6,2,8};
 
-        printPrevGreaterNaive(arr,arr.length);
+        // printPrevGreaterNaive(arr,arr.length);
         printPrevGreaterEfficient(arr,arr.length);
     }
 }
