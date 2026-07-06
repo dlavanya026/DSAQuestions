@@ -1,2 +1,0 @@
-# DSAQuestions
-Practicing DSA
