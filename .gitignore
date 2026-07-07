@@ -4,3 +4,4 @@
 # Optional: Ignore entire build directories (like target or bin)
 bin/
 target/
+out/
