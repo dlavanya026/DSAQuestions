@@ -1,5 +1,6 @@
 # DSAQuestions
 Practicing DSA
 
-#String
-1) String Encoding and Decoding
+#Two Pointer
+1) String Encoding and Decoding  
+
